@@ -1,0 +1,1 @@
+var json_132KVCHILKALGUDA33KVCHILKALGUDA_AB_Switch_67 = {"type":"FeatureCollection","name":"132KVCHILKALGUDA33KVCHILKALGUDA_AB_Switch_67","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.50216,17.420233]}}]}

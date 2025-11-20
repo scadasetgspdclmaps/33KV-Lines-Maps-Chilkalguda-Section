@@ -1,0 +1,1 @@
+var json_132KVOSMANIAUNIVERSITY33KVSEETHAPHALMANDI_AB_Switch_37 = {"type":"FeatureCollection","name":"132KVOSMANIAUNIVERSITY33KVSEETHAPHALMANDI_AB_Switch_37","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.526908,17.422627]}}]}

@@ -1,0 +1,1 @@
+var json_33KVOsmaniaUniversity33KVSeethaphalmandiSS_AB_Switch_7 = {"type":"FeatureCollection","name":"33KVOsmaniaUniversity33KVSeethaphalmandiSS_AB_Switch_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"AB"},"geometry":{"type":"Point","coordinates":[78.517621,17.426309]}}]}
